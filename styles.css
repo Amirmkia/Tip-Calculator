@@ -1,0 +1,10 @@
+.calc-body{
+    background-color: #FFFFFF;
+    width: 100%; 
+    padding: 20px 20px 20px 20px;
+    margin-top: 30vh;
+    border-radius: 20px;
+}
+.calc-header{
+    text-align: center;
+}
